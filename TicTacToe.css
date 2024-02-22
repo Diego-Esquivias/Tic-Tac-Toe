@@ -1,0 +1,51 @@
+body {
+    padding: 20px;
+    background-color: #3f4b33;
+}
+
+#gameTable {
+    background-color: #766f41;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 400px;
+    border-radius: 30px;
+}
+
+#gameTable button {
+    background-color: #97988a;
+    border: none;
+    color: #97988a;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    border-radius: 30px;
+    font-size: xx-large;
+    margin: 5px;
+    font-size: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    color: 	#b7b47f;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    color: 	#b7b47f;
+}
+
+h3 {
+    text-align: center;
+    font-size: 40px;
+    color: 	#b7b47f;
+}
+
+h4 {
+    text-align: center;
+    font-size: 30px;
+    color: 	#b7b47f;
+}
