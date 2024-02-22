@@ -5,11 +5,11 @@ body {
 
 #gameTable {
     background-color: #766f41;
-    width: 400px;
+    height: auto;
+    width: 400px; 
+    margin: 0 auto;    
     margin-left: auto;
-    margin-right: auto;
     padding: 20px;
-    max-width: 400px;
     border-radius: 30px;
 }
 
