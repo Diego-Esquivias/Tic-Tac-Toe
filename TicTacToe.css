@@ -3,6 +3,11 @@ body {
     background-color: #3f4b33;
 }
 
+@font-face {
+    font-family: newFont;
+    src: url(budmo/budmo\ jiggler.otf);
+}
+
 #gameTable {
     background-color: #766f41;
     height: auto;
@@ -11,6 +16,7 @@ body {
     margin-left: auto;
     padding: 20px;
     border-radius: 30px;
+    border: 10px dotted #b7b47f;
 }
 
 #gameTable button {
@@ -21,31 +27,37 @@ body {
     height: 120px;
     text-align: center;
     border-radius: 30px;
-    font-size: xx-large;
+    font-size: 100px;
+    font-family: newFont;
     margin: 5px;
     font-size: 50px;
+    border: 10px dotted #b7b47f;
 }
 
 h1 {
     text-align: center;
     font-size: 80px;
+    font-family: newFont;
     color: 	#b7b47f;
 }
 
 h2 {
     text-align: center;
     font-size: 50px;
+    font-family: newFont;
     color: 	#b7b47f;
 }
 
 h3 {
     text-align: center;
     font-size: 40px;
+    font-family: newFont;
     color: 	#b7b47f;
 }
 
 h4 {
     text-align: center;
     font-size: 30px;
+    font-family: newFont;
     color: 	#b7b47f;
 }
