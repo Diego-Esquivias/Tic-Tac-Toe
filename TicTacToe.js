@@ -126,6 +126,8 @@ const tie = () => {
             elements[i].style.backgroundColor = "#97988a"
             elements[i].disabled = false
         }
+        document.getElementById("turn").innerHTML = "Player: X"
+        playerTurn = 0
         document.getElementById("turns").innerHTML = "Turns: " + playerTurn
     } else {
         // If they cancel, it reloads the whole page
